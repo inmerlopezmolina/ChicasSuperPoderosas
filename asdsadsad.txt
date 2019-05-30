@@ -1,0 +1,3 @@
+https://forums.xamarin.com/discussion/97712/how-to-set-border-color-for-entry-tag-in-xaml
+
+
